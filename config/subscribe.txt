@@ -3,7 +3,8 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-
+https://guovin.github.io/iptv-api/result.m3u
+https://iptv-org.github.io/iptv/countries/cn.m3u
 
 
 
